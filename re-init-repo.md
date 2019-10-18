@@ -1,4 +1,4 @@
-###1. squash entire repository down to one commit?###
+### 1. squash entire repository down to one commit?###
 ```cd {git-repo}
 rm -rf .git #remove the git history
 git init #re-init the git repo

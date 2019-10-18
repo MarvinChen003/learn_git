@@ -1,4 +1,4 @@
-####ways of git push 
+### ways of git push 
 1. first time set up local repo to track remote repo
 ```
 git push -u origin {branch_name}
