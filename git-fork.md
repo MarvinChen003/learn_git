@@ -17,4 +17,9 @@ git reset --hard origin/master
 says: throw away all my staged and unstaged changes, forget everything on my current local branch and make it exactly the same as origin/master.
 
 ## Notes ##
-Need *fetch* before *rebase*
+
+1. Need *fetch* before *rebase*
+
+2. In Git, "origin" is a shorthand name for the remote repository that a project was originally cloned from.
+
+3. Merge & Rebase https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
