@@ -20,5 +20,8 @@ git rebase -i HEAD~{num_of_commits}
 [squash, fixup] - commit 03 -- newest
 ```
 
- 
+---> push: 
+```
+git push -f
+```
 
